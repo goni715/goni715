@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Osman Goni
+## Hi there 👋 My name is Osman Goni
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goni715)
 
