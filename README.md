@@ -1,9 +1,10 @@
 ## Hi there 👋 My name is Osman Goni
+#### I am a MERN Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goni715)
 
 
-#### I am a MERN Stack Developer
+
 
 - 📫 How to reach me: goniosman715149123@gmail.com 
 
