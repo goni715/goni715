@@ -1,5 +1,5 @@
-## Hi there 👋 My name is Osman Goni
-#### I am a MERN Stack Developer
+# Hi there 👋 My name is Osman Goni
+### I am a MERN Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goni715)
 
