@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 My name is Osman Goni</h1> 
+<h1 align="center">Hi there 👋 I'm Osman Goni</h1> 
 <h2 align="center"> I am a MERN Stack Developer</h2> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goni715)
