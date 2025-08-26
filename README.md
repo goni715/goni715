@@ -14,6 +14,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni715&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni715&count_private=true&layout=compact&theme=radical)](https://github.com/goni715/github-readme-stats)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goni715&show_icons=true&count_private=true)  
 
 
