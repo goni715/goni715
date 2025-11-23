@@ -2,9 +2,10 @@
 #<h2 align="center"> I am a backend-focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
 <h2 align="center">
   I am a backend-focused 
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%20?color=8e44ad&style=for-the-badge&labelColor=ffffff00" height="25" />
   with expertise in both MVC and modular architecture patterns.
 </h2>
+
 
 
 
