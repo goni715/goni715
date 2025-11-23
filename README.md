@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Osman Goni</h1> 
-<h2 align="center"> I am a backend-focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
+<h2 align="center"> I am a Back-End Focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
 
 
 
