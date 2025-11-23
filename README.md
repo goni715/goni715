@@ -1,5 +1,16 @@
 <h1 align="center">Hi there 👋 I'm Osman Goni</h1> 
-<h2 align="center"> I am a backend-focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
+#<h2 align="center"> I am a backend-focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
+<h2 align="center">
+  I am a backend-focused 
+  <span style="background: linear-gradient(to right, #4facfe, #00f2fe); 
+               -webkit-background-clip: text; 
+               color: transparent; 
+               font-weight:bold;">
+      Full Stack Developer
+  </span>
+  with expertise in both MVC and modular architecture patterns.
+</h2>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goni715)
 
