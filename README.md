@@ -2,9 +2,10 @@
 #<h2 align="center"> I am a backend-focused Full Stack developer with expertise in both MVC and modular architecture patterns.</h2> 
 <h2 align="center">
   I am a backend-focused 
-  <span style="color:#007bff; font-weight:bold;">Full Stack Developer</span> 
+  <span style="color:#007bff;"><b>Full Stack Developer</b></span>
   with expertise in both MVC and modular architecture patterns.
 </h2>
+
 
 
 
