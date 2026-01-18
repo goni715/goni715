@@ -69,6 +69,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni715&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goni715&show_icons=true&count_private=true)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=goni715&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=goni715&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=goni715&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
