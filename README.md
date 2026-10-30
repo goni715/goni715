@@ -11,8 +11,6 @@
 
 
 
-
-- 📚 Currently I am learning Data Structure & Algorithm.
 - 📫 How to reach me: gonidev715@gmail.com 
 
 
